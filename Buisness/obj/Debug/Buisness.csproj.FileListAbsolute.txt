@@ -1,0 +1,20 @@
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\Buisness.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\Buisness.pdb
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\BackEnd.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\Entidades.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\BackEnd.pdb
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\bin\Debug\Entidades.pdb
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\obj\Debug\Buisness.csprojResolveAssemblyReference.cache
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\obj\Debug\Buisness.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\Buisness\obj\Debug\Buisness.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\Buisness.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\Buisness.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\BackEnd.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\Entidades.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\BackEnd.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\bin\Debug\Entidades.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\obj\Debug\Buisness.csprojAssemblyReference.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\obj\Debug\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\obj\Debug\Buisness.csproj.CopyComplete
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\obj\Debug\Buisness.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Buisness\obj\Debug\Buisness.pdb

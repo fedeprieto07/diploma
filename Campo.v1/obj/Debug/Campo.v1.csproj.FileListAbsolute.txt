@@ -1,0 +1,44 @@
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Campo.v1.exe.config
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Campo.v1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Campo.v1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Buisness.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Entidades.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\BackEnd.dll
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Buisness.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\Entidades.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\bin\Debug\BackEnd.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csprojResolveAssemblyReference.cache
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.Properties.Resources.resources
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csproj.GenerateResource.Cache
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.exe
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.pdb
+c:\users\samsung\documents\visual studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.ftmCategoria.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmProductoCategoria.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmProducto.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmVistaCategoriaArticulo.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmOrdenDeCompra.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmMain.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Campo.v1.exe.config
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Campo.v1.exe
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Campo.v1.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Buisness.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Entidades.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\BackEnd.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Buisness.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\Entidades.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\bin\Debug\BackEnd.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csprojAssemblyReference.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.ftmCategoria.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmProducto.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmProductoCategoria.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmVistaCategoriaArticulo.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmMain.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmOrdenDeCompra.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.Properties.Resources.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.csproj.CopyComplete
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.exe
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmVistaOrdenEstado.resources
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\Campo.v1\obj\Debug\Campo.v1.frmVistaProducto.resources

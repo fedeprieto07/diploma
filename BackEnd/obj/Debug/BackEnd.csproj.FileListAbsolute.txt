@@ -1,0 +1,16 @@
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\bin\Debug\BackEnd.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\bin\Debug\BackEnd.pdb
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\bin\Debug\Entidades.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\bin\Debug\Entidades.pdb
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\obj\Debug\BackEnd.dll
+c:\Users\Samsung\documents\visual studio 2015\Projects\Campo.v1\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\bin\Debug\Entidades.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\bin\Debug\Entidades.pdb
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\obj\Debug\BackEnd.csprojAssemblyReference.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\obj\Debug\BackEnd.csproj.CopyComplete
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\Samsung\Downloads\Campo.v1-20181015T172852Z-001\Campo.v1\BackEnd\obj\Debug\BackEnd.pdb
